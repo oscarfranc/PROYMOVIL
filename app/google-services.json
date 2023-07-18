@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48346748646",
+    "project_id": "proyectomovil-ecbfd",
+    "storage_bucket": "proyectomovil-ecbfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48346748646:android:281a2027a6e34228a20d27",
+        "android_client_info": {
+          "package_name": "com.cristofer.debermovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48346748646-o7ri4e2i61obdp60et6glv9dk2ccftem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9Mr_DKPDfhpIIaUUN-hZ5oqZkgslYrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48346748646-o7ri4e2i61obdp60et6glv9dk2ccftem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
